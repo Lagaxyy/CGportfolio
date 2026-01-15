@@ -1,2 +1,2 @@
 # CGportfolio
-Site web HTML/CSS/JS présentant mon portfolio
+Site web HTML/CSS présentant mon portfolio
